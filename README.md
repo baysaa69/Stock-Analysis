@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # Stock Analysis Learning Project
 
 A Python learning project that reads an asset CSV, retrieves prices and exchange
@@ -36,3 +38,10 @@ python Main.py
 
 An internet connection is required. The script prints exchange rates and the
 asset table with a `Price EUR` column. Results depend on available Yahoo data.
+=======
+
+# Stock-Analysis
+
+A learning project that fetches asset prices and exchange rates from Yahoo Finance and converts prices to euros.
+
+> > > > > > > 8639a634be9e45a1a62fc2c466e6c7e16617a0de
