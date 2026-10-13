@@ -1,0 +1,21 @@
+# Local Python environment and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.dist/
+dist/
+build/
+
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
+.vscode/
+.DS_Store
+
+# Local financial data (keep private)
+*.csv
